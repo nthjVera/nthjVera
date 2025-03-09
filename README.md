@@ -2,7 +2,7 @@
 🚀 Full Stack Developer | Apasionado por la innovación tecnológica  
 
 🎓 **Formación:** DAM + SMR  
-💡 **Stack:** Java, JavaScript, Spring Boot, Angular, PostgreSQL, Android/Kotlin, C#, Python, React, NodeJS, TypeScript 
+💡 **Stack:** Java, JavaScript, Spring Boot, Angular, PostgreSQL, Android/Kotlin, C#, Python, React, NodeJS, TypeScript     
 ⚡ **Intereses:** Desarrollo de software, seguridad informática y servidores  
 
 ---
